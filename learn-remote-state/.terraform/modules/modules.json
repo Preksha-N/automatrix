@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"key_pair","Source":"registry.terraform.io/terraform-aws-modules/key-pair/aws","Version":"2.0.2","Dir":".terraform/modules/key_pair"}]}
